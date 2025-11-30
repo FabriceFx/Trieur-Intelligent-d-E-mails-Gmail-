@@ -1,4 +1,4 @@
-# Trieur Intelligent d'E-mails (Gmail)
+# Trieur intelligent d'E-mails (Gmail)
 
 ![License MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Google%20Apps%20Script-green)
@@ -36,6 +36,6 @@ Une solution automatisée et optimisée pour organiser votre boîte de réceptio
 3.  Acceptez les demandes d'autorisation d'accès à Gmail.
 4.  Le script s'exécutera désormais toutes les heures en arrière-plan.
 
-## 🛡️ Gestion des Erreurs
+## 🛡️ Gestion des erreurs
 
 Les erreurs critiques sont capturées et affichées dans la console d'exécution Google Cloud (`console.error`), assurant que le script ne plante pas silencieusement.
